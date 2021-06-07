@@ -1,5 +1,6 @@
 # Lab02
-Este laboratorio implementa una calculadora Avanzada, modular con framework de Spring Boot con los modulos siguientes:
+El laboratorio 02 extiende las funcionalidades de una calculadora simple 
+a una calculadora avanzada, la cual alberga los siguientes modulos con tecnologia framework de spring Boot de esta manera:
 
 Principal
 Calculadora estándar
